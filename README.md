@@ -31,7 +31,7 @@ Following the rigorous SQL data extraction and manipulation phase, a comprehensi
 
 ## Presentation
 
-> Resultant File is `Sales Analysis.sql`
+> Resultant File is `Insights.pptx`
 
 To ensure these technical findings are accessible and actionable for non-technical audiences, the repository includes a comprehensive PowerPoint (PPT) presentation. This slide deck serves as the executive summary of the entire project. It systematically synthesizes the hard metrics generated via SQL with the intuitive, high-quality charts generated in Python. The PPT outlines the core problem statement, highlights the most critical visual findings, and provides a clear, logical narrative flow that translates raw data into a strategic business roadmap. 
 
