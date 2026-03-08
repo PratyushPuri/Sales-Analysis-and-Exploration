@@ -8,7 +8,7 @@ The primary challenge of this project was to extract meaningful business intelli
 
 ## SQL Analysis 
 
-> Resultant File is `Sales Analysis.sql`
+> Resultant File is `Data/Sales Analysis.sql`
 
 A highly structured and rigorous approach was utilized to query the database, employing everything from basic aggregations to complex Common Table Expressions (CTEs) and Window Functions. The SQL phase successfully addressed multiple tiers of business intelligence:
 
@@ -19,7 +19,7 @@ A highly structured and rigorous approach was utilized to query the database, em
 
 ## Python Exploratory Data Analysis
 
-> Resultant File is `Sales_EDA.ipynb`
+> Resultant File is `Data/Sales_EDA.ipynb`
 
 Following the rigorous SQL data extraction and manipulation phase, a comprehensive Exploratory Data Analysis was conducted using Python's leading data science libraries (Pandas, NumPy, Matplotlib, Seaborn) within a Jupyter Notebook environment. Key analytical steps included:
 
@@ -31,7 +31,7 @@ Following the rigorous SQL data extraction and manipulation phase, a comprehensi
 
 ## Presentation
 
-> Resultant File is `Insights.pptx`
+> Resultant File is `Data/Insights.pptx`
 
 To ensure these technical findings are accessible and actionable for non-technical audiences, the repository includes a comprehensive PowerPoint (PPT) presentation. This slide deck serves as the executive summary of the entire project. It systematically synthesizes the hard metrics generated via SQL with the intuitive, high-quality charts generated in Python. The PPT outlines the core problem statement, highlights the most critical visual findings, and provides a clear, logical narrative flow that translates raw data into a strategic business roadmap. 
 
